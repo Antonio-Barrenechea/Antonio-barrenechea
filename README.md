@@ -18,7 +18,7 @@ Me apasiona transformar grandes volúmenes de datos en decisiones estratégicas.
 ---
 
 ### 📈 Proyectos Destacados
-* [**Telecom Analysis & Customer Segmentation**](https://github.com/Antonio-Barrenechea/sprint7-final-project-telecom-analysis): Análisis completo de consumo y segmentación demográfica para identificar oportunidades de negocio en el sector telecom.
+* [**Telecom Analysis & Customer Segmentation**](https://github.com/Antonio-Barrenechea/sprint7-final-project_telecom-analysis.git): Análisis completo de consumo y segmentación demográfica para identificar oportunidades de negocio en el sector telecom.
 * [**Análisis de Datos Everpeak**](https://github.com/Antonio-Barrenechea/analysis_everpeak): Limpieza y visualización de datos operativos.
 
 ---
