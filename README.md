@@ -26,3 +26,8 @@ Me apasiona transformar grandes volúmenes de datos en decisiones estratégicas.
 ### 📫 Conectemos:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-barrenechea-g-mex)
 **Ciudad:** CDMX, México 🇲🇽
+
+---
+### 📊 Estadísticas de GitHub
+![Estadísticas de Antonio](https://github-readme-stats.vercel.app/api?username=Antonio-Barrenechea&show_icons=true&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Barrenechea&layout=compact&theme=tokyonight)
