@@ -28,6 +28,3 @@ Me apasiona transformar grandes volúmenes de datos en decisiones estratégicas.
 **Ciudad:** CDMX, México 🇲🇽
 
 ---
-### 📊 Estadísticas de GitHub
-![Estadísticas de Antonio](https://github-readme-stats.vercel.app/api?username=Antonio-Barrenechea&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Barrenechea&layout=compact&theme=tokyonight)
